@@ -14,7 +14,7 @@
 
 ```
 CNSA 허브/
-├── index.html          # Hub page - 7 tool cards
+├── index.html          # Hub page - 8 tool cards
 ├── middleware.js        # Vercel Edge Middleware (password auth)
 ├── vercel.json          # SPA rewrite rule
 └── favicon.png          # CNSA logo
@@ -38,3 +38,4 @@ CNSA 허브/
 | 다했니? | dajandi.cnsatools.com | 다잔디 |
 | 문제 은행 | cnsa-problem-bank.vercel.app | riro-web |
 | 상담 예약 | GAS 웹앱 (느가부지모하시노) | 06_느가부지모하시노 |
+| 학과 검색 | app-sigma-kohl-65.vercel.app | - |
